@@ -2,8 +2,7 @@
 
 **Elevate your pickleball game with DinkDevil** - A sleek, modern web app for organizing pickleball tournaments, tracking scores, and managing rotating or set partner games.
 
-🔗 **[Live Demo](#)** (Add your GitHub Pages link here after deployment)
-
+🔗 **(https://veritasvoid.github.io/dinkdevil/)** 
 ![DinkDevil Banner](https://via.placeholder.com/1200x400/0A0A0B/C7FF00?text=DinkDevil+Pickleball+Organizer)
 
 ---
